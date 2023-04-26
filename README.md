@@ -3,9 +3,9 @@ This a simple python program to protect websites against SQL Injections.
 
 ---
 
-***By: Brunel BOUYA***
-***This is a personal project for training purpose***
-***LinkedIn: https://www.linkedin.com/in/brunelbouya/***
+***By: Brunel BOUYA*** <br><br>
+***This is a personal project for training purpose*** <br><br>
+***LinkedIn: https://www.linkedin.com/in/brunelbouya/***<br>
 
 ---
 
@@ -20,13 +20,17 @@ The severity of SQL Injection attacks is limited by the attacker’s skill and i
 # Project model architecture
 ![A test image](Diagramming.png)
 
-# Test
-Now let's test our code. We used the amazon official website to test if any SQL injection can be found:
-![Code image](Code.png)
 
 # Test
+Now let's test our code. We used the amazon official website to test if any SQL injection can be found:
+
+![alt text](https://github.com/Brunel01/sql_injection_scanner/blob/main/Code.PNG)
+
+# Test
+
 No SQL Injection has been found from the tested website:
-![Resuslt image](Result.png)
+
+![Resuslt image](https://github.com/Brunel01/sql_injection_scanner/blob/main/Result.PNG)
 
 ---
 
