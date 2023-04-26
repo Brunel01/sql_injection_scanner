@@ -10,4 +10,4 @@ SQL Injection is very common with PHP and ASP applications due to the prevalence
 The severity of SQL Injection attacks is limited by the attacker’s skill and imagination, and to a lesser extent, defense in depth countermeasures, such as low privilege connections to the database server and so on. In general, consider SQL Injection a high impact severity.
 
 # Project model architecture
-![A test image](Diagram.png)
+![A test image](Diagramming.png)
