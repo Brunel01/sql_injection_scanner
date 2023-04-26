@@ -22,11 +22,11 @@ The severity of SQL Injection attacks is limited by the attacker’s skill and i
 
 # Test
 Now let's test our code. We used the amazon official website to test if any SQL injection can be found:
-![A test image](Code.png)
+![Code image](Code.png)
 
 # Test
 No SQL Injection has been found from the tested website:
-![A test image](Result.png)
+![Resuslt image](Result.png)
 
 ---
 
